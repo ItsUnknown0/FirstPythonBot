@@ -1,0 +1,2 @@
+# FirstPythonBot
+discordian type stuff
